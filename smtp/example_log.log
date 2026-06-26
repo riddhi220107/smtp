@@ -1,0 +1,8 @@
+2026-06-11 16:58:20 - INFO - Email attempt to send
+2026-06-11 16:58:26 - ERROR - SMTP authentication error: (535, b'5.7.3 Authentication unsuccessful [PN4P287CA0096.INDP287.PROD.OUTLOOK.COM 2026-06-11T11:28:28.335Z 08DEC71DF681AFB5]')
+2026-06-11 17:02:15 - INFO - Email attempt to send
+2026-06-11 17:02:21 - ERROR - SMTP authentication error: (535, b'5.7.3 Authentication unsuccessful [PN4PR01CA0028.INDPRD01.PROD.OUTLOOK.COM 2026-06-11T11:32:22.853Z 08DEC70223FE0B26]') invails email PLEASE check you email!!!
+2026-06-11 17:03:08 - INFO - Email attempt to send
+2026-06-11 17:03:14 - ERROR - SMTP authentication error(invails email PLEASE check you email!!!): (535, b'5.7.3 Authentication unsuccessful [BMXP287CA0017.INDP287.PROD.OUTLOOK.COM 2026-06-11T11:33:16.040Z 08DEC75A649FC15E]')
+2026-06-11 17:06:05 - INFO - Email attempt to send
+2026-06-11 17:06:11 - ERROR - SMTP authentication error(SMTP_SERVER error): (535, b'5.7.3 Authentication unsuccessful [PN4P287CA0044.INDP287.PROD.OUTLOOK.COM 2026-06-11T11:36:13.272Z 08DEC647422EFBB3]')
